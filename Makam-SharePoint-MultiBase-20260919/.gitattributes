@@ -1,0 +1,18 @@
+# Keep vendor binaries and archives byte-for-byte. Normalize only first-party text.
+* -text
+/.gitattributes text eol=lf
+/manifest.json text eol=lf
+/FRONT/*.js text eol=lf
+/FRONT/*.html text eol=lf
+/FRONT/assets/*.js text eol=lf
+/FRONT/assets/*.css text eol=lf
+/SERVER/src/** text eol=lf
+/SERVER/shared/** text eol=lf
+/SERVER/scripts/** text eol=lf
+/SERVER/api/** text eol=lf
+/SERVER/web.config text eol=lf
+/SERVER/package*.json text eol=lf
+/SERVER/.env.example text eol=lf
+/GUIDE/** text eol=lf
+/SOURCE/*.json text eol=lf
+/SOURCE/*.md text eol=lf

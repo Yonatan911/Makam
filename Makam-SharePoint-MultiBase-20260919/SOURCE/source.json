@@ -1,0 +1,17 @@
+{
+  "sourceCommit": "7ead0bb8d6f2eebf7623f6a97b93d5a4105b671a",
+  "branch": "remediation/iisnode-multibase-20261006",
+  "sourceFiles": 129,
+  "artifacts": [
+    {
+      "path": "makam-source.bundle",
+      "bytes": 2928619,
+      "sha256": "83dc05866ecc1ebd4f73421d02db1a1e8a8e797fecf6e79c664e70da1103fa88"
+    },
+    {
+      "path": "makam-source.zip",
+      "bytes": 2798107,
+      "sha256": "f482a4c8a20fde229d4e074ece203ca56a309c285727bfd161a1cec523987f39"
+    }
+  ]
+}
